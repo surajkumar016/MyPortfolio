@@ -23,7 +23,7 @@ export const ProjectData=[
         title: 'Whatsapp Clone ',
         about: "This Website consists of complete whatsapp UI build with React, Node, and Expressjs component. ",
         tags:["Nodejs", "Expressjs","Bootstrap","Reactjs","Html-Css"],
-        demo: '#',
+        demo: 'https://whatsapp-clone-107514.netlify.app/',
         github: 'https://github.com/surajkumar016/Whatsapp-clone',
         image: "https://chatimize.com/wp-content/uploads/2020/09/whatsapp-chatbots-thumbnail.jpg"
 
