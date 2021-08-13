@@ -2,7 +2,7 @@ export const ProjectData=[
     {
         id:1,
         title: 'Netflix Clone',
-        about: "This is a clone version of netflix build with reactjs, redux, fierbase and API requests . This application works just like netflix and store user information in firebase database. So type your email and password, click on signup and enjoy.",
+        about: "This is a clone version of netflix build with reactjs, redux, firebase and API requests . This application works just like netflix and store user information in firebase database. So type your email and password, click on signup and enjoy.",
         tags:["Reactjs", "Hooks","Firebase","API","React-router","Axios"],
         demo: 'https://netflix-clone-fdb08.web.app/',
         github: 'https://github.com/surajkumar016/Netflix_clone',
