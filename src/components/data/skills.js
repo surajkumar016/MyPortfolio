@@ -18,6 +18,10 @@ export const SkillsData = [
                 name:"Css",
                 icon:<i class="devicon-css3-plain colored"></i>
             },
+            {
+                name:"Javascript",
+                icon:<i class="devicon-javascript-plain colored"></i>
+            },
         ],
     },
     {
@@ -43,10 +47,7 @@ export const SkillsData = [
                 name:"Java",
                 icon:<i class="devicon-java-plain colored"></i>
             },
-            {
-                name:"Javascript",
-                icon:<i class="devicon-javascript-plain colored"></i>
-            },
+            
         ],
     },
     {
